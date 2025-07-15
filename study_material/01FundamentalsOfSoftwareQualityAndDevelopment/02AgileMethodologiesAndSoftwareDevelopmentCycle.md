@@ -18,9 +18,11 @@
 
 ### 📌 Apresentação
 
-Um **processo de software** é como um mapa que guia o desenvolvimento de sistemas, desde a ideia inicial até a entrega de um produto funcional. Ele engloba todas as **atividades, métodos, práticas e ferramentas** usadas para criar e manter software com qualidade, eficiência e dentro do prazo. Pense nele como a receita de um bolo: cada ingrediente (atividade) e cada passo (método) precisa ser seguido para garantir o resultado esperado.
+Um **processo de software** é como um mapa que guia o desenvolvimento de sistemas, desde a ideia inicial até a entrega de um produto funcional. Ele engloba todas as **atividades, métodos, práticas e ferramentas** usadas para criar e manter software com qualidade, eficiência e dentro do prazo. Pense nele como a receita de um bolo: cada ingrediente (atividade) e cada passo (método) precisa ser seguido para garantir o resultado esperado.  
 
-> **Por que isso é importante para QA?** O QA não é só "testar". Ele atua em todas as etapas do processo, garantindo que cada parte do software atenda aos padrões de qualidade e às necessidades do cliente.
+**Por que isso é importante para QA?**  
+
+- O QA não é só "testar". Ele atua em todas as etapas do processo, garantindo que cada parte do software atenda aos padrões de qualidade e às necessidades do cliente.  
 
 ---
 
@@ -38,7 +40,7 @@ Um **processo de software** é como um mapa que guia o desenvolvimento de sistem
 
 ---
 
-### 🗂️ Modelo Prescritivo
+### 🗂️ Modelo Prescritivo - Tradicional 
 
 Os **Modelos Prescritivos** são abordagens tradicionais, estruturadas e sequenciais, ideais para projetos com requisitos bem definidos e pouco propensos a mudanças. Eles seguem um caminho linear, como um checklist.
 
@@ -176,6 +178,8 @@ O **Scrum** é o framework ágil mais usado globalmente. Ele organiza o trabalho
 
 > **Para QA:** No Scrum, o QA participa ativamente do Sprint Planning, escreve casos de teste para o Sprint Backlog e garante que o Incremento seja testado antes da Review.
 > **Tendência em 2025:** Ferramentas como Jira, Trello e Monday.com são amplamente usadas para gerenciar Sprints e Backlogs.
+
+---
 
 ### 📌 Outros Modelos Ágeis
 
