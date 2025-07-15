@@ -121,7 +121,7 @@ O **Rational Unified Process (RUP)** é um framework que organiza o desenvolvime
 3. **Construção:** Desenvolve e testa o software. Ex.: codificação e testes unitários.
 4. **Transição:** Entrega o software ao cliente e realiza ajustes finais. Ex.: implantação e treinamento.
 
-> 🛠️ **Diferencial:** Baseado em casos de uso e orientado a arquitetura.
+> 🛠️ **Diferencial:** Baseado em casos de uso e orientado a arquitetura.       
 > 🔍 **Para QA:** O RUP enfatiza casos de uso, então o QA deve garantir que cada funcionalidade atenda aos cenários definidos. Ferramentas como Jira ou Azure DevOps ajudam a rastrear esses casos.
 
 ---
