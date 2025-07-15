@@ -136,8 +136,8 @@ Lançado em 2001, o **Manifesto Ágil** revolucionou o desenvolvimento de softwa
 3. **Colaboração com o cliente** sobre negociação de contratos.
 4. **Resposta a mudanças** sobre seguir um plano rígido.
 
-> 💡 **Princípio:** Entregas frequentes e foco no cliente. 
-> 💡 Em vez de gastar meses escrevendo um documento de requisitos, uma equipe ágil entrega uma versão inicial do software em semanas e ajusta com base no feedback do cliente.
+> 💡 **Princípio:** Entregas frequentes e foco no cliente.    
+> 💡 Em vez de gastar meses escrevendo um documento de requisitos, uma equipe ágil entrega uma versão inicial do software em semanas e ajusta com base no feedback do cliente.     
 > 📜 **Dica de Estudo:** Leia o [Manifesto Ágil](https://agilemanifesto.org/iso/ptbr/) e seus 12 princípios. Eles são a base de frameworks como Scrum e Kanban.
 
 ---
