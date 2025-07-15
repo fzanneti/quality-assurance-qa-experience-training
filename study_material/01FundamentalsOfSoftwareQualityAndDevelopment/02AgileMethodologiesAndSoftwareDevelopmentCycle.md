@@ -35,7 +35,7 @@ Um **processo de software** é como um mapa que guia o desenvolvimento de sistem
   - **IEEE 829:** padrão para documentação de testes.
   - **CMMI (Capability Maturity Model Integration):** modelo para melhorar processos organizacionais.
 
-> 🎯 **Objetivo:** Padronizar o desenvolvimento para garantir previsibilidade, qualidade e eficiência.
+> 🎯 **Objetivo:** Padronizar o desenvolvimento para garantir previsibilidade, qualidade e eficiência.     
 > ✍️ **Dica de Estudo:** Familiarize-se com esses padrões, pois muitas empresas os utilizam para auditorias e certificações. Eles são como "regras do jogo" que o QA precisa conhecer.
 
 ---
